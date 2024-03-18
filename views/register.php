@@ -46,6 +46,7 @@
 
                     </form>
                     <p class="text-center mt-3 small">Registered already? <a href="../views">Login</a></p>
+                    <p class="text-center mt-3 small">Kredo @ 2024</p>
                 </div>
             </div>        
         </div>
